@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use EXO in your research, please cite this software."
+title: "EXO"
+type: software
+version: 0.1.0
+date-released: "2026-10-11"
+authors:
+  - family-names: "Nowacki"
+    given-names: "Hugo"
+license: "MIT"
+repository-code: "https://github.com/nowacki-hugo/EXO"

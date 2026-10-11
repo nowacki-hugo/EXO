@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "EXO"
+version = "0.1.0"
+description = "Tools for the study of exoplanets interior composition"
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+license-files=["LICENSE"]
+
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib",
+    "joblib",
+    "oimodeler>=0.9.8",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+joblib
+oimodeler>=0.9.8
