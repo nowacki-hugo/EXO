@@ -38,19 +38,13 @@ cd EXO
 python -m pip install .
 ```
 
-For development, use an editable installation:
-
-```bash
-python -m pip install -e .
-```
-
 ## Quick start and examples
 
 Use EXO as a standard python package 
 ```python
 import EXO
 ```
-See the `examples/` directory for working examples.
+See the [examples](examples) directory for working examples.
 
 ## Requirements
 
