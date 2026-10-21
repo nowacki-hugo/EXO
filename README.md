@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/EXO_logo.png" alt="EXO project logo" width="250">
+  <img src="assets/EXO_logo.png" alt="EXO project logo" width="500">
 </p>
 
 <h1 align="center">EXO</h1>
