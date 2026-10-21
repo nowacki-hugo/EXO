@@ -5,7 +5,7 @@
 <h1 align="center">EXO</h1>
 
 <p align="center">
-  Tools for the study of exoplanets interior composition
+  Tools for the study of exoplanets and their host stars
 </p>
 
 # Description
